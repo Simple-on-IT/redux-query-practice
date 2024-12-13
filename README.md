@@ -28,4 +28,4 @@
   - redux query - https://redux.js.org/tutorials/essentials/part-7-rtk-query-basics
   - json-server - https://www.npmjs.com/package/json-server  
 
-Видео - 
+Видео - https://youtube.com/shorts/y34S81PZgcg?feature=share
